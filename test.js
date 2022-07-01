@@ -1,0 +1,3 @@
+HTMLAreaElement
+cevap
+fetch
